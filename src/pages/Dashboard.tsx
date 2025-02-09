@@ -1,5 +1,5 @@
-import React from 'react';
-import { BookOpen, Video, Award, BarChart3, Calendar,Settings } from 'lucide-react';
+
+import { BookOpen, Video, Award, BarChart3, Calendar} from 'lucide-react';
 import DashboardLayout from '../components/DashboardLayout';
 
 function Dashboard() {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useParams } from 'react-router-dom';
 import { Play, Download, BookOpen, Clock, Award, MessageSquare } from 'lucide-react';
 import DashboardLayout from '../components/DashboardLayout';

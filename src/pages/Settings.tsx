@@ -2,7 +2,7 @@
 
 import type React from "react"
 import { useState, useEffect } from "react"
-import { Moon, Bell, Globe, Mail, Lock, BookOpen, Clock } from "lucide-react"
+import { Moon, Bell, Globe, Mail,  BookOpen, Clock } from "lucide-react"
 
 const Settings: React.FC = () => {
   const [darkMode, setDarkMode] = useState(false)
